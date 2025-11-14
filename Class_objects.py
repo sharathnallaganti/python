@@ -14,6 +14,22 @@ Decorator in class like Constructor
 
 """
 
+# Empty class
+
+class Myclass:
+  pass
+
+# Class With Only Variables
+
+class Person:
+  name ="Sharath"
+  age= 25
+
+print(Person.name)
+print(Person.age)
+
+
+
 # Simple class
 
 class computer:
@@ -46,7 +62,6 @@ print(car1.Brand ,car1.Model, car1.Year) # simple way to print the objects Attri
 print(Cars)    # used the get the memory address of the class 
 
 print(car1)   # used to print the Memory Address of the object
-
 
 
 
