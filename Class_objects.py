@@ -12,6 +12,11 @@ Inside the class variables are called as "attributes" and functions called as "M
 
 Decorator in class like Constructor
 
+
+--> ClassName should follow PascalCase (first letter capital)
+
+✔ Correct
+
 """
 
 # Empty class
