@@ -13,8 +13,15 @@ Inside the class variables are called as "attributes" and functions called as "M
 Decorator in class like Constructor
 
 
---> ClassName should follow PascalCase (first letter capital)
 
+Rule	Example
+Use class keyword	class 
+Use PascalCase for naming	class StudentRecord:
+Indent everything inside class	4 spaces
+Methods must include self	def speak(self):
+Constructor must be __init__	def __init__(self):
+Use self.variable for object attributes	self.age = 21
+Use parentheses to create objects	p = Person()
 
 
 """
