@@ -15,7 +15,7 @@ Decorator in class like Constructor
 
 --> ClassName should follow PascalCase (first letter capital)
 
-✔ Correct
+
 
 """
 
